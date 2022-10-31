@@ -1,0 +1,2 @@
+CREATE TABLE accounts (id INTEGER PRIMARY KEY, username VARCHAR, password VARCHAR, apikey VARCHAR);
+INSERT INTO accounts (id, username, password, apikey) VALUES (1, 'santiago', 'fd82d18b4b06ce2f19e32e1e9e53f8c8a70a20dd6f6235d8f31ed544c59c4118', 'fd8834eafeba259ea349d0e90821c9396f7189c00cc14d51335494c56636880f');
