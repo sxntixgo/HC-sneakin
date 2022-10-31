@@ -6,7 +6,7 @@ Hey, Santiago here! The previous challenges were just a test and this is where t
 
 You will find the app URL below.
 
-http://127.0.0.1
+https://127.0.0.1
 
 # Docker
 
