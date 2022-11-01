@@ -1,4 +1,4 @@
-This are the challenges in the category "👟️Sneak In" for SAINCON's HC 2022. Al the challenges are distributed as docker containers and they include a challenge description and an intended solution.
+These are my challenges in the category "👟️Sneak In" for SAINCON's HC 2022. Al the challenges are distributed as docker containers and they include a challenge description and an intended solution.
 
 * [You are el](/url)
 * [Continuation](/sql)
